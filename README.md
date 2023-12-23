@@ -1,3 +1,5 @@
+kernel version: 6.2.0-37-generic  
+
 insmod sample.ko  
 ==> load kernel driver module  
 ./poll_test &  
